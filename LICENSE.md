@@ -14,7 +14,7 @@
 2. **Unzip** to any folder of your choice
 3. **Run** the executable file
 
-## 🎮 Features
+## 🎮 Features:
 
 - Advanced undetected technology
 - Latest 2026 optimizations
